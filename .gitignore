@@ -1,0 +1,14 @@
+*.apk
+*.ipa
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+/build
+/Library/*
+/Temp
+/AssetBundles
+/release
